@@ -1,0 +1,3 @@
+I, [2022-05-15T14:40:48.215716 #17964]  INFO -- Kitchen: -----> Starting Test Kitchen (v3.2.2)
+I, [2022-05-15T14:40:49.289831 #17964]  INFO -- Kitchen: -----> Destroying <default-centos65>...
+I, [2022-05-15T14:41:00.476666 #17964]  INFO -- Kitchen: -----> Test Kitchen is finished. (0m12.26s)

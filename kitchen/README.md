@@ -1,0 +1,1 @@
+Just a virtual box setup for centos 65 using kitchen yaml ain't markdown (YAML :p)
